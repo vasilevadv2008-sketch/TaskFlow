@@ -44,7 +44,7 @@ convenient and efficient.
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
-## 💻 Usage Example
+## Usage Example
 
 ```javascript
 const task = {
